@@ -54,5 +54,6 @@ Para probar el programa se utilizaron estos productos:
 Aplicar los conocimientos de Programación Básica mediante el uso de clases, objetos, propiedades, constructores, métodos, validaciones y manejo de excepciones en C#.
 
 ## Imagenes guia del funcionamiento del mismo
-
+![imagen alt](https://github.com/dinamic8228-hash/Actividad-Clases-objetos-y-propiedades/blob/bb4ae4b240cee43c292410aab1e419c3566d6e69/WhatsApp%20Image%202026-11-17%20at%209.44.07%20PM.jpeg)
 ![imagen alt](https://github.com/dinamic8228-hash/Actividad-Clases-objetos-y-propiedades/blob/705821b50ae6233e03982e8a9d7b77399c339f0e/WhatsApp%20Image%202026-11-17%20at%209.44.07%20PM%20(1).jpeg)
+
